@@ -1,6 +1,6 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          Research Algorithmic Group
+description:    "Управление активами"
 baseurl:        "/tale"
 url:            "https://ragve-hub.github.io"
 
@@ -9,9 +9,9 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Qt
+  url:          https://ragve-hub.github.io
+  email:        post@ragve.ru
 
 # Build settings
 markdown:       kramdown
