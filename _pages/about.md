@@ -4,11 +4,18 @@ title: "О нас"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+Мы занимаемся алгоритмическим трейдингом и управлением активами с 2003 года.
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+Наша культура основана на командной работе и консенсусе. Мы ценим аналитическую строгость, поиск истины и честность.
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+Честность и справедливость лежат в основе всего, что мы делаем. Мы считаем, что карьера должна быть долгой и что репутация создается десятилетиями.
 
-Thanks for reading!
+Мы стремимся к наилучшим результатам, используя совокупный опыт членов нашей команды, наших партнеров, наших консультантов и инвесторов.
+
+Мы гордимся многолетней преемственностью нашей команды - почти все мы начинали работу как молодые специалисты по инвестициям и постепенно продвигались вверх.
+
+Мы подходим к отношениям с партнерами ориентируясь на долгосрочную ценность, даже в ущерб краткосрочной выгоде.
+
+## Контакты
+
+Спасибо, что вы с нами!
