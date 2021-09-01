@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Заглавный пост"
-tags: Tutorial
 sticky: true
 hidden: true
 excerpt_separator: <!--more-->
