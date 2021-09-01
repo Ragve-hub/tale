@@ -1,7 +1,7 @@
 # Site settings
 title:          Research Algorithmic Group
 description:    "Управление активами"
-baseurl:        "/tale"
+baseurl:        "/"
 url:            "https://ragve.ru"
 
 # Google Analytics
