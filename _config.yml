@@ -2,7 +2,7 @@
 title:          Research Algorithmic Group
 description:    "Управление активами"
 baseurl:        "/tale"
-url:            "https://ragve-hub.github.io"
+url:            "https://ragve.ru"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
@@ -10,7 +10,7 @@ google_analytics: UA—XXXXXXXX-X
 # Author
 author:
   name:         Qt
-  url:          https://ragve-hub.github.io
+  url:          https://ragve.ru
   email:        post@ragve.ru
 
 # Build settings
