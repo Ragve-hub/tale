@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Главный пост"
+title: "Заглавный пост"
 tags: Tutorial
 sticky: true
 hidden: true
