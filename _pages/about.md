@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "О нас"
 permalink: /about/
 ---
