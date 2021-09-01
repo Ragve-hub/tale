@@ -11,7 +11,6 @@ hidden: true
 Контент блога идейно близкий к тому, что встречается на нижеперечисленных ресурсах:
 
 
-
 http://www.zerohedge.com
 
 http://ftalphaville.ft.com/
