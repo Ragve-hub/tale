@@ -9,28 +9,28 @@ tags: Разработка
 
 ## C#:
 
-[5% Down-In-One-Day Panic Recovery](http://ragve.ru/posts/5panic-day)
+[5% Down-In-One-Day Panic Recovery](https://ragve-hub.github.io/tale/5panic-day)
 
-[ Four Down Days and Long](http://ragve.ru/posts/fourday-long)
+[ Four Down Days and Long](https://ragve-hub.github.io/tale/fourday-long)
 
-[Stock 2% gap](http://ragve.ru/posts/stock2gap)
+[Stock 2% gap](https://ragve-hub.github.io/tale/stock2gap)
 
-[Bollinger Bands](http://ragve.ru/posts/bolband)
+[Bollinger Bands](https://ragve-hub.github.io/tale/bolband)
 
-[ Breakout with 4% Entry Limit](http://ragve.ru/posts/Breakout-4)
+[ Breakout with 4% Entry Limit](https://ragve-hub.github.io/tale/Breakout-4)
 
-[Four Up Days and Short for 1% Profit](http://ragve.ru/posts/fourday-1)
+[Four Up Days and Short for 1% Profit](https://ragve-hub.github.io/tale/fourday-1)
 
-[Slow Turtle Trend Following](http://ragve.ru/posts/slturtle)
+[Slow Turtle Trend Following](https://ragve-hub.github.io/tale/slturtle)
 
 
 ## Multicharts:
 
-[Портфель стратегий Brent by Jonh Gold](http://ragve.ru/posts/brent_by_JG)
+[Портфель стратегий Brent by Jonh Gold](https://ragve-hub.github.io/tale/brent_by_JG)
 
-[Индикатор Флэт/тренд by Jurik Research](http://ragve.ru/posts/Индикатор-Флэт_тренд)
+[Индикатор Флэт/тренд by Jurik Research](https://ragve-hub.github.io/tale/Индикатор-Флэт_тренд)
 
-[Фонарик новичка by Oldman](http://ragve.ru/posts/Фонарик-новичка-by-Oldman)
+[Фонарик новичка by Oldman](https://ragve-hub.github.io/tale/Фонарик-новичка-by-Oldman)
 
 
 
