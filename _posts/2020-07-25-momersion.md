@@ -3,11 +3,13 @@ layout: post
 title: Индикатор Momersion by Michael Harris
 date: 2021-07-25 11:06:52
 tags: Разработка/Статистика/R
+excerpt_separator: <!--more-->
 ---
 
 Momersion, индикатор, который измеряет процент двух последовательных восходящих
 дней в 252-дневном периоде. Это мера, предназначенная для определения степени тенденции
 или возврата к среднему значению ряда доходностей.
+<!--more-->
 
 <img src="https://raw.githubusercontent.com/Ragve-hub/scribble/gh-pages/images/momersion.png" alt="">
 
