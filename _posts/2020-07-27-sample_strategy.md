@@ -11,7 +11,7 @@ tags: Разработка
 
 [5% Down-In-One-Day Panic Recovery](https://ragve-hub.github.io/tale/2021-03-10/5panic-day)
 
-[ Four Down Days and Long](https://ragve-hub.github.io/tale/2020-03-12/fourday-long)
+[ Four Down Days and Long](https://ragve-hub.github.io/tale/2020-08-12/fourday-long)
 
 [Stock 2% gap](https://ragve-hub.github.io/tale/2020-07-16/stock2gap)
 
