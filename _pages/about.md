@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "О нас"
-author: "Chester"
 permalink: /about/
 ---
 
