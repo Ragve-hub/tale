@@ -18,7 +18,6 @@ excerpt_separator: <!--more-->
 и можно было разрабатывать/торговать портфели стратегий.
 <!--more-->
 
-Скачать полноценнную версию с ограничением в 30 дней можно на официальном сайте
 
 [Smartquant Framework](http://www.smartquant.com/)
 
@@ -37,6 +36,7 @@ IQFeed, Ivory Scorpion, Lightspeed, MBTrading, Nordnet, Open E Cry,
 OSL FIX, Plaza II, Quik Fix, SAXO FIX, SmartCom, TT Api Fix.
 
 ----------
+
 из ask/bid/middle собираются следующие типы баров:
 
 time -  (sec, min, daily,weekly)
