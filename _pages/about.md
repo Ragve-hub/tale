@@ -45,7 +45,10 @@ permalink: /about/
 [По управлению активами](https://ragve-hub.github.io/tale/faq/)
 
 
-
+<br>
+<br>
+<br>
+<br>
 ----------
 
 ## Контакты для связи:
