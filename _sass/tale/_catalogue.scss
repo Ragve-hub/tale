@@ -17,20 +17,20 @@
 
   &-pinned {
     color: $default-tint;
-    font-family: $serif-secondary;
+    font-family: 'Roboto', sans-serif;
     letter-spacing: .5px;
   }
 
   &-time {
     color: $default-tint;
-    font-family: $serif-secondary;
+    font-family: 'Roboto', sans-serif;
     letter-spacing: .5px;
   }
 
   &-title {
     color: $default-shade;
     display: block;
-    font-family: $sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 2rem;
     font-weight: 700;
     margin: .5rem 0;
