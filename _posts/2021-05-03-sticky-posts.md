@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Заглавный пост"
+title: ""
 sticky: true
 hidden: true
 excerpt_separator: <!--more-->
