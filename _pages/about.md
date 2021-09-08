@@ -37,4 +37,4 @@ permalink: /about/
 [Условия и результаты работы](https://ragve-hub.github.io/tale/asset/)
 
 ## Часто задаваемые вопросы
-## [По управлению](https://ragve-hub.github.io/tale/faq/)
+[По управлению](https://ragve-hub.github.io/tale/faq/)
