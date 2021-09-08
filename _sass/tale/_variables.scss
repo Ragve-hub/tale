@@ -11,10 +11,10 @@ $shadow-color: rgba(0, 0, 0, .2) !default;
 $code-color: #bf616a !default;
 
 // Fonts
-$serif-primary: 'Times New Roman', Times, serif !default;
-$serif-secondary: 'Times New Roman', Times, serif !default;
-$sans-serif: 'Times New Roman', Times, sans-serif !default;
-$monospaced: 'Times New Roman', Times, monospace !default;
+$serif-primary: 'Roboto', Times, serif !default;
+$serif-secondary: 'Roboto', Times, serif !default;
+$sans-serif: 'Roboto', Times, sans-serif !default;
+$monospaced: 'Roboto', Times, monospace !default;
 
 @mixin box-sizing($type: border-box) {
   -webkit-box-sizing: $type;
