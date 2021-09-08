@@ -48,11 +48,11 @@ vol - общий объем бара
 range - (high - low) multiplied by 10000
 
 
-<img src="https://raw.githubusercontent.com/Ragve-hub/scribble/gh-pages/images/data1.png" alt="">
-
 отдельно формируются:
 
 quotes - bid,ask
+
+<img src="https://raw.githubusercontent.com/Ragve-hub/scribble/gh-pages/images/data1.png" alt="">
 
 marketdepth - изменение стакана
 
