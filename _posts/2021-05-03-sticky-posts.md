@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "О блоге"
+title: "О контенте"
 sticky: true
 hidden: true
 excerpt_separator: <!--more-->
