@@ -14,7 +14,7 @@ $code-color: #bf616a !default;
 $serif-primary: 'Roboto', Times, serif !default;
 $serif-secondary: 'Roboto', Times, serif !default;
 $sans-serif: 'Roboto', Times, sans-serif !default;
-$monospaced: 'Roboto', Times, monospace !default;
+$monospaced: 'Roboto Mono', Times, monospace !default;
 
 @mixin box-sizing($type: border-box) {
   -webkit-box-sizing: $type;
