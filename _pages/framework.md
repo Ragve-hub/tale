@@ -3,9 +3,6 @@ layout: post
 title: "SmartQuant framework"
 ---
 
-
-### Мы используем Openquant для разработки, тестирования и исполнения торговых стратегий.
-
 <img src="https://raw.githubusercontent.com/Ragve-hub/scribble/gh-pages/images/oq1.png" alt="">
 
 Программная среда предоставляет базовые функции рисования и визуализации графиков,
