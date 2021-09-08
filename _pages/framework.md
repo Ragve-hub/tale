@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "SmartQuant framework"
+permalink: /framework/
 ---
 
 <img src="https://raw.githubusercontent.com/Ragve-hub/scribble/gh-pages/images/oq1.png" alt="">
