@@ -45,14 +45,3 @@ permalink: /about/
 [По управлению активами](https://ragve-hub.github.io/tale/faq/)
 
 
-<br>
-<br>
-<br>
-<br>
-
-
-## Контакты для связи:
-
-г.Тюмень, ул.50 лет Октября 8Б
-
-post@ragve.ru 
