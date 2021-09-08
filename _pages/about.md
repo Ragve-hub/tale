@@ -33,4 +33,6 @@ permalink: /about/
 
 Для разработки, тестирования, и исполнения торговых стратегий мы используем [smartquant framework](https://ragve.ru/framework/)
 
-Условия и [результаты работы](https://ragve-hub.github.io/tale/asset/). Часто задаваемые [вопросы](https://ragve-hub.github.io/tale/faq/).
+Условия и [результаты работы](https://ragve-hub.github.io/tale/asset/).
+
+Часто задаваемые [вопросы](https://ragve-hub.github.io/tale/faq/).
