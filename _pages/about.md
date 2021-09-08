@@ -36,7 +36,7 @@ permalink: /about/
 
 ## Платформа для разработки:
 
-Для разработки, тестирования, и исполнения торговых стратегий мы используем [smartquant framework](https://ragve.ru/framework/).
+Для разработки, тестирования, и исполнения торговых стратегий мы используем [Smartquant framework](https://ragve.ru/framework/).
 
 ## Услуги:
 [Управление активами. Условия. Результаты работы](https://ragve-hub.github.io/tale/asset/)
