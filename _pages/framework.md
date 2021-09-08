@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Программная платформа
-date: 2021-07-05 21:06:52
-tags: Разработка/Инфраструктура
-excerpt_separator: <!--more-->
+title: "SmartQuant framework"
 ---
+
 
 ### Мы используем Openquant для разработки, тестирования и исполнения торговых стратегий.
 
