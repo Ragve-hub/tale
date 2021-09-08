@@ -9,7 +9,7 @@
     }
 
     &-line {
-      border-top: 0.4rem solid #FFA728;
+      border-top: 0.4rem solid #E19857;
       display: block;
       margin: 0 auto 3rem;
       width: 4rem;
@@ -64,7 +64,7 @@
 
     &-line {
       @include transition(all 0.3s ease-out);
-      border-top: 0.1rem solid #FFA728;
+      border-top: 0.1rem solid #E19857;
       display: block;
       width: 0;
     }
