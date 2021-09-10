@@ -2,7 +2,7 @@
   
   <div>
     {% if include.sticky == 'true' %}
-    <span class="catalogue-pinned">Важно &middot;</span>
+    <span class="catalogue-pinned">Важно &middot; {% include date.html date=page.date %}</span>
     {% endif %}
     
  
