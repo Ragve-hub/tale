@@ -4,7 +4,7 @@
     {% if include.sticky == 'true' %}
     <span class="catalogue-pinned">Важно &middot;</span>
     {% endif %}
-    
+    {% include date.html date=page.date %}
  <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%-d %B, %Y" }}</time>
     <h1 class="catalogue-title">{{ post.title }}</h1>
     <div class="catalogue-line"></div>
