@@ -5,10 +5,8 @@
     <span class="catalogue-pinned">Важно &middot;</span>
     {% endif %}
     
-    {% include date.html date=page.date %}
  
-       <time datetime="{% include date.html date=page.date %}" class="catalogue-time">{{ post.date | date: "%-d %B, %Y" }}</time>
-        <time datetime="{% include date.html date=page.date %}" class="catalogue-time">{{ date=page.date | date: "%-d %B, %Y" }}</time>
+         <time datetime="{% include date.html date=page.date %}" class="catalogue-time">{{ date=page.date | date: "%-d %B, %Y" }}</time>
     <time datetime="{% include date.html date=page.date %}" class="catalogue-time">{{ date | date: "%-d %B, %Y" }}</time>
 
 
