@@ -5,8 +5,8 @@
     <span class="catalogue-pinned">Важно &middot; </span>
     {% endif %}
     
- 
-<time datetime="{{ post.date }}" class="catalogue-time">{{ post.date }}</time>
+ {% include date.html date=page.date %}
+<time datetime="{{ post.date }}" class="catalogue-time">{{include date.html date=page.date  }}</time>
     
     
     <h1 class="catalogue-title">{{ post.title }}</h1>
