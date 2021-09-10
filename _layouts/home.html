@@ -7,12 +7,7 @@ layout: default
     {% if post.sticky %}
       {% include catalogue_item.html sticky='true' %}
   
-   {% if page.date %}
-      <br>
-    {% include date.html date=page.date %}
-    {% endif %}
-  
-  
+    
     {% endif %}
   {% endfor %}
 
