@@ -7,10 +7,8 @@
     {% endif %}
     
  
-         <time datetime="{% include date.html date=page.date %}" class="catalogue-time">{{ date=page.date | date: "%-d %B, %Y" }}</time>
-    <time datetime="{% include date.html date=page.date %}" class="catalogue-time">{{ date | date: "%-d %B, %Y" }}</time>
-
-
+ 
+<time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%-d %B, %Y" }}</time>
     
     
     <h1 class="catalogue-title">{{ post.title }}</h1>
