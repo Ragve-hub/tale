@@ -9,7 +9,8 @@
  
     <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%-d %B, %Y" }}</time>
     {% include date.html date=page.date %}
-    <time datetime="{% include date.html date=page.date %}" class="catalogue-time">{{ post.date | date: "%-d %B, %Y" }}</time>
+    <time datetime="{% include date.html date=page.date %}" class="catalogue-time">{{ page.date | date: "%-d %B, %Y" }}</time>
+
     
     
     <h1 class="catalogue-title">{{ post.title }}</h1>
