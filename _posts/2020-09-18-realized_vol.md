@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 Расчет 30/60/90 дневной волатильности для сравнения и анализу будущих волнений на рынке.
+<!--more-->
 
 30 дней
 <img src="https://raw.githubusercontent.com/Ragve-hub/scribble/gh-pages/images/real_30.png" alt="">
