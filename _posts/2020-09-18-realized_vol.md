@@ -10,12 +10,14 @@ excerpt_separator: <!--more-->
 <!--more-->
 
 30 дней
-<img src="https://raw.githubusercontent.com/Ragve-hub/scribble/gh-pages/images/real_30.png" alt="">
+
+<img src="https://ragve.ru/images/real_30.png" alt="">
 
 30-90 дней
-<img src="https://raw.githubusercontent.com/Ragve-hub/scribble/gh-pages/images/real30-real90.png" alt="">
 
-Код
+<img src="https://ragve.ru/images/real30-real90.png" alt="">
+
+# Код
 
 ```
 library(rusquant)
