@@ -1,7 +1,7 @@
 # Site settings
 title:          Управление активами
 description:    "Блог"
-baseurl:        "/"
+baseurl:        "/about"
 url:            "https://ragve.ru"
 
 # Google Analytics
