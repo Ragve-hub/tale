@@ -1,7 +1,7 @@
 ---
 layout: post
 title: О Предвзятости
-date: 2021-09-15 17:06:52
+date: 2020-09-15 17:06:52
 tags: Рекомендации/Прочее
 excerpt_separator: <!--more-->
 ---
