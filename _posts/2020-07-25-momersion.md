@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Индикатор Momersion by Michael Harris
+title: Индикатор momersion by Michael Harris
 date: 2021-07-25 11:06:52
 tags: Разработка/Статистика/R
 excerpt_separator: <!--more-->
