@@ -8,7 +8,7 @@ hidden: true
 
  Мы используем различные инструменты для разработки и тестирования стратегий на исторических данных.
 
-## Pool Sample C#:
+## Pool Smartquant :
 
 [5% Down-In-One-Day Panic Recovery](https://ragve-hub.github.io/tale/2021-03-10/5panic-day)
 
@@ -25,7 +25,7 @@ hidden: true
 [Slow Turtle Trend Following](https://ragve-hub.github.io/tale/2020-02-09/slturtle)
 
 
-## Сезонность. Фьючерс на индекс РТС.
+## Сезонность. Фьючерс на индекс РТС :
 
 [Стратегия N4](https://ragve.ru/2021-07-09/seasonal_4)
 
@@ -35,7 +35,7 @@ hidden: true
 
 [Стратегия N1](https://ragve.ru/2021-07-05/seasonal_1)
 
-## Паттерны. Фьючерс на индекс РТС.
+## Паттерны. Фьючерс на индекс РТС :
 
 [Стратегия N2](https://ragve.ru/2021-07-11/pattern_2)
 
