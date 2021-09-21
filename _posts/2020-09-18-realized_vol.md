@@ -2,7 +2,7 @@
 layout: post
 title: Волатильность 30/60/90 дней
 date: 2021-09-18 13:06:52
-tags: Разработка/Статистика/R
+tags: Статистика/R
 excerpt_separator: <!--more-->
 ---
 
