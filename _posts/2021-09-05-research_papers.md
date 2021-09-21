@@ -127,8 +127,12 @@ Decomposing Portfolio Value-at-Risk: A General Analysis, W.G.Hallerbach, 1999
 
   
 \[[1](http://www.smartquant.com/references/NeuralNetworks/neural1.pdf)\] Feedforward and Recurrent Neural Networks and Genetic Programs for Stock Market and Time Series Forecasting, P.C.McCluskey, 1993
+
 \[[2](http://www.smartquant.com/references/NeuralNetworks/neural2.pdf)\] Clustering of the Self-Organizing Map , Juha Vesanto , 2000
-\[[3](http://www.smartquant.com/references/NeuralNetworks/neural3.pdf)\] The Learning Vector Quantization Program Package, T.Kohonen, 1996 \[[4](http://www.smartquant.com/references/NeuralNetworks/neural4.ps)\] A Neural Network Model for Gold Market, P.J.McCann, B.L.Kalman,1993 \[[5](http://www.smartquant.com/references/NeuralNetworks/neural5.pdf)\] Prediction Risk and Architecture Selection for Neural Networks, J.Moody, 1994 \[[6](http://www.smartquant.com/references/NeuralNetworks/neural6.pdf)\] Economic Forecasting: Challenges and Neural Network Solutions, J.Moody, 1995 \[[7](http://www.smartquant.com/references/NeuralNetworks/neural7.pdf)\] Neural Networks in Economics: Background, Applications and New Developments, R.Herbrich et.al., 1999
+
+\[[3](http://www.smartquant.com/references/NeuralNetworks/neural3.pdf)\] The Learning Vector Quantization Program Package, T.Kohonen, 1996 
+
+\[[4](http://www.smartquant.com/references/NeuralNetworks/neural4.ps)\] A Neural Network Model for Gold Market, P.J.McCann, B.L.Kalman,1993 \[[5](http://www.smartquant.com/references/NeuralNetworks/neural5.pdf)\] Prediction Risk and Architecture Selection for Neural Networks, J.Moody, 1994 \[[6](http://www.smartquant.com/references/NeuralNetworks/neural6.pdf)\] Economic Forecasting: Challenges and Neural Network Solutions, J.Moody, 1995 \[[7](http://www.smartquant.com/references/NeuralNetworks/neural7.pdf)\] Neural Networks in Economics: Background, Applications and New Developments, R.Herbrich et.al., 1999
 \[[8](http://www.smartquant.com/references/NeuralNetworks/neural8.pdf)\] Incorporating Prior Knowledge About Financial Markets Through Neural Multitask Learning, K.Bartlmae et.al., 1995 
 \[[9](http://www.smartquant.com/references/NeuralNetworks/neural9.pdf)\] Neural Networks for Time Series Processing, G.Dorffner, 1996 
 \[[10](http://www.smartquant.com/references/NeuralNetworks/neural10.pdf)\] Stock Price Prediction Using Neural Networks, F.W.Op’t Landt, MSc. thesis, 1997
