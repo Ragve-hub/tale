@@ -6,9 +6,9 @@ tags: Разработка
 hidden: true
 ---
 
-### Мы используем различные инструменты для разработки и тестирования стратегий на исторических данных.
+ Мы используем различные инструменты для разработки и тестирования стратегий на исторических данных.
 
-## C#:
+## Pool Sample C#:
 
 [5% Down-In-One-Day Panic Recovery](https://ragve-hub.github.io/tale/2021-03-10/5panic-day)
 
@@ -23,6 +23,24 @@ hidden: true
 [Four Up Days and Short for 1% Profit](https://ragve-hub.github.io/tale/2020-03-12/fourday-1)
 
 [Slow Turtle Trend Following](https://ragve-hub.github.io/tale/2020-02-09/slturtle)
+
+
+## Сезонность. Фьючерс на индекс РТС.
+
+[Стратегия N4](https://ragve.ru/2021-07-09/seasonal_4)
+
+[Стратегия N3](https://ragve.ru/2021-07-08/seasonal_3)
+
+[Стратегия N2](https://ragve.ru/2021-07-06/seasonal_2)
+
+[Стратегия N1](https://ragve.ru/2021-07-05/seasonal_1)
+
+## Паттерны. Фьючерс на индекс РТС.
+
+[Стратегия N2](https://ragve.ru/2021-07-11/pattern_2)
+
+[Стратегия N1](https://ragve.ru/2021-07-10/pattern_1)
+
 
 
 ## Multicharts:
