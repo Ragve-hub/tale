@@ -63,6 +63,7 @@ excerpt_separator: <!--more-->
 <ul>
 <li><a href="http://people.stern.nyu.edu/jcarpen0/">Jennifer Carpenter</a> (<a href="http://www.stern.nyu.edu/">New York University</a>, <a href="http://www.stern.nyu.edu/">Stern</a>): <a href="http://people.stern.nyu.edu/jcarpen0/main.htm#research">publications</a></li>
 <li><a href="http://www.oxford-man.ox.ac.uk/people/members_henderson.html">Vicky Henderson</a> (<a href="http://www.oxford-man.ox.ac.uk/index.html">Oxford-Man Institute of Quantitative Finance<a>): <a href="http://users.ox.ac.uk/~oxma0006/">publications</a>
+  </p>
   
   </li>
 </ul>
@@ -71,7 +72,10 @@ excerpt_separator: <!--more-->
 <ul>
 <li><a href="http://web.mit.edu/alo/www/">Andrew Lo</a>, <a href="http://lfe.mit.edu/">MIT Laboratory for Financial Engineering</a> (<a href="http://www.alphasimplex.com/">Alpha Simplex</a></strong>, part of <a href="http://www.globalam.natixis.com/en/index.php">Natixis</a>): <a href="http://web.mit.edu/alo/www/articles.html">publications</a></li>
 <li><a href="http://www.kevinsheppard.com/">Kevin Sheppard</a> (<a href="http://www.oxford-man.ox.ac.uk/index.html">Oxford-Man Institute of Quantitative Finance<a>): <a href="http://www.kevinsheppard.com/wiki/Working_Papers">working papers</a> and <a href="http://www.kevinsheppard.com/wiki/Published_Papers">published papers</a></li>
-<li><a href="http://www.chicagobooth.edu/faculty/bio.aspx?person_id=12825860096">Ruey Tsay</a> (<a href="http://www.chicagobooth.edu">University of Chicago</a>): <a href="http://www.lib.uchicago.edu/e/busecon/busfac/Tsay.html">publications</a></li>
+<li><a href="http://www.chicagobooth.edu/faculty/bio.aspx?person_id=12825860096">Ruey Tsay</a> (<a href="http://www.chicagobooth.edu">University of Chicago</a>): <a href="http://www.lib.uchicago.edu/e/busecon/busfac/Tsay.html">publications</a>
+  </p>
+  
+  </li>
 </ul>
 <p>&mdash; <strong>Information Geometry / Information Theory</strong></p>
 <ul>
