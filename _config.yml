@@ -5,7 +5,7 @@ baseurl:        "/"
 url:            "https://ragve.ru"
 
 # Google Analytics
-google_analytics: G-W9VH0D4BP1
+google_analytics: ##
 
 # Author
 author:
