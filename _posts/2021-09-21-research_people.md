@@ -109,7 +109,7 @@ excerpt_separator: <!--more-->
 
 *   [Robert Almgren](http://www.courant.nyu.edu/~almgren/) ([Quantitative Brokers](http://quantitativebrokers.com/), [Courant](http://www.cims.nyu.edu/)): [publications](http://www.courant.nyu.edu/~almgren/pubs.html)
 
-— **Risk Management** (![\mathbb{P}](https://s0.wp.com/latex.php?latex=%5Cmathbb%7BP%7D&bg=ffffff&fg=333333&s=0&c=20201002))
+— **Risk Management** 
 
 *   [Carol Alexander](http://www.icmacentre.ac.uk/about_us/academic_staff/professor_carol_alexander) ([Reading University](http://www.reading.ac.uk/)): [publications](http://www.carolalexander.org/research.php)
 *   [Peter Christoffersen](http://www.christoffersen.com/) ([University of Toronto](http://www.rotman.utoronto.ca)): [publications](http://www.christoffersen.com/pc_research.asp)
