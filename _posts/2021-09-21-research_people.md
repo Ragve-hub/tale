@@ -76,7 +76,7 @@ excerpt_separator: <!--more-->
 <li><a href="http://www.lix.polytechnique.fr/~nielsen/">Frank Nielsen</a> (<a href="http://www.polytechnique.fr/jsp/accueil.jsp?CODE=36392593&amp;LANGUE=1">École Polytechnique</a>): <a href="http://www.lix.polytechnique.fr/~nielsen/">publications</a></li>
 <li><a href="http://www.mdl-research.org/jorma.rissanen/">Jorma Rissanen</a>, <a href="http://www.clrc.rhul.ac.uk/">Computer Learning Research Centre</a> (<a href="http://www.rhul.ac.uk/home.aspx">University of London, Royal Holloway</a>, MDL): <a href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Rissanen:Jorma.html">publications</a></li>
 </ul>
-<p>&mdash; <strong>Informed Trading</strong> / <strong>Short Selling</strong> (<img src="https://s0.wp.com/latex.php?latex=%5Cmathbb%7BP%7D&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" alt="&#92;mathbb{P}" class="latex" />)</p>
+<p>&mdash; <strong>Informed Trading</strong> / <strong>Short Selling</strong> </p>
 <ul>
 <li><a href="http://sites.google.com/site/blaufinance/">Benjamin Blau</a> (<a href="http://huntsman.usu.edu">Utah State University</a>): <a href="http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=608347">publications</a></li>
 </ul>
