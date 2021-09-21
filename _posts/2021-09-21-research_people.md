@@ -67,9 +67,10 @@ excerpt_separator: <!--more-->
 <p>&mdash; <strong>Executive Stock Options</strong> </p>
 <ul>
 <li><a href="http://people.stern.nyu.edu/jcarpen0/">Jennifer Carpenter</a> (<a href="http://www.stern.nyu.edu/">New York University</a>, <a href="http://www.stern.nyu.edu/">Stern</a>): <a href="http://people.stern.nyu.edu/jcarpen0/main.htm#research">publications</a></li>
-<li><a href="http://www.oxford-man.ox.ac.uk/people/members_henderson.html">Vicky Henderson</a> (<a href="http://www.oxford-man.ox.ac.uk/index.html">Oxford-Man Institute of Quantitative Finance<a>): <a href="http://users.ox.ac.uk/~oxma0006/">publications</a></li>
+<li><a href="http://www.oxford-man.ox.ac.uk/people/members_henderson.html">Vicky Henderson</a> (<a href="http://www.oxford-man.ox.ac.uk/index.html">Oxford-Man Institute of Quantitative Finance<a>): <a href="http://users.ox.ac.uk/~oxma0006/">publications</a> </li>
 </ul>
-<p>&mdash; <strong>Financial Econometrics</strong></p>
+
+<p>&mdash; <strong>Financial Econometrics</strong> </p>
 <ul>
 <li><a href="http://web.mit.edu/alo/www/">Andrew Lo</a>, <a href="http://lfe.mit.edu/">MIT Laboratory for Financial Engineering</a> (<a href="http://www.alphasimplex.com/">Alpha Simplex</a></strong>, part of <a href="http://www.globalam.natixis.com/en/index.php">Natixis</a>): <a href="http://web.mit.edu/alo/www/articles.html">publications</a></li>
 <li><a href="http://www.kevinsheppard.com/">Kevin Sheppard</a> (<a href="http://www.oxford-man.ox.ac.uk/index.html">Oxford-Man Institute of Quantitative Finance<a>): <a href="http://www.kevinsheppard.com/wiki/Working_Papers">working papers</a> and <a href="http://www.kevinsheppard.com/wiki/Published_Papers">published papers</a></li>
