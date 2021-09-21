@@ -62,11 +62,9 @@ excerpt_separator: <!--more-->
 <p>&mdash; <strong>Executive Stock Options</strong> </p>
 <ul>
 <li><a href="http://people.stern.nyu.edu/jcarpen0/">Jennifer Carpenter</a> (<a href="http://www.stern.nyu.edu/">New York University</a>, <a href="http://www.stern.nyu.edu/">Stern</a>): <a href="http://people.stern.nyu.edu/jcarpen0/main.htm#research">publications</a></li>
-<li><a href="http://www.oxford-man.ox.ac.uk/people/members_henderson.html">Vicky Henderson</a> (<a href="http://www.oxford-man.ox.ac.uk/index.html">Oxford-Man Institute of Quantitative Finance<a>): <a href="http://users.ox.ac.uk/~oxma0006/">publications</a>
-  </p>
-  
-  </li>
+<li><a href="http://www.oxford-man.ox.ac.uk/people/members_henderson.html">Vicky Henderson</a> (<a href="http://www.oxford-man.ox.ac.uk/index.html">Oxford-Man Institute of Quantitative Finance<a>): <a href="http://users.ox.ac.uk/~oxma0006/">publications</a></li>
 </ul>
+  </p>
   
 <p>&mdash; <strong>Financial Econometrics</strong></p>
 <ul>
