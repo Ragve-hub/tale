@@ -2,7 +2,7 @@
 layout: post
 title: Академические исследователи
 date: 2021-09-21 7:06:52
-tags: Рекомендации/Прочее
+tags: Рекомендации
 excerpt_separator: <!--more-->
 ---
 
