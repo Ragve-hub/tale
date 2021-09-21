@@ -32,4 +32,14 @@ excerpt_separator: <!--more-->
 <li>Pim van Vliet, <a href="http://www.eur.nl/ese">Erasmus School of Economics</a> (<a href="http://www.robeco.com">Robeco</a>): <a href="http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=296465">publications</a></li>
 </ul>
 
+</ul>
+<p>&mdash; <strong>Behavioral Finance</strong> </p>
+<ul>
+<li><a href="http://www.columbia.edu/~kd2371/">Kent Daniel</a> (<a href="http://www.cfm.fr">Columbia</a>, formerly GSAM): <a href="http://www.columbia.edu/~kd2371/#Publications">publications</a></li>
+<li><a href="http://www.princeton.edu/~hhong/">Harrison Hong</a> (<a href="http://www.princeton.edu">Princeton</a>): <a href="http://www.princeton.edu/~hhong/">publications</a></li>
+</ul>
+<p>&mdash; <strong>Corporate Finance</strong></p>
+<ul>
+<li><a href="http://www.people.hbs.edu/lcohen">Lauren Cohen</a> (<a href="http://www.hbs.edu">Harvard Business School</a>): <a href="http://www.people.hbs.edu/lcohen">publications</a></li>
+</ul>
   
