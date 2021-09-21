@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 <!--more-->
 
 
-— **Asset Allocation / Asset Pricing / Portfolio Management** (![\mathbb{P}](https://s0.wp.com/latex.php?latex=%5Cmathbb%7BP%7D&bg=ffffff&fg=333333&s=0&c=20201002))
+— **Asset Allocation / Asset Pricing / Portfolio Management** 
 
 *   [Andrew Ang](http://www.columbia.edu/~aa610/) ([Columbia](http://www.cfm.fr)): [publications](http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=94010)
 *   [Cliff Asness](http://www.aqrcapital.com/cliff.htm) ([AQR Capital](http://aqr.com/)): [publications](http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=77768)
@@ -30,7 +30,7 @@ excerpt_separator: <!--more-->
 *   [Thierry Post](http://www.bangor.ac.uk/business/staff/theirry_post.php.en) ([Bangor University](http://www.bangor.ac.uk/)): [publications](http://www.bangor.ac.uk/business/staff/theirry_post.php.en)
 *   Pim van Vliet, [Erasmus School of Economics](http://www.eur.nl/ese) ([Robeco](http://www.robeco.com)): [publications](http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=296465)
 
-— **Behavioral Finance** (![\mathbb{P}](https://s0.wp.com/latex.php?latex=%5Cmathbb%7BP%7D&bg=ffffff&fg=333333&s=0&c=20201002))
+— **Behavioral Finance** 
 
 *   [Kent Daniel](http://www.columbia.edu/~kd2371/) ([Columbia](http://www.cfm.fr), formerly GSAM): [publications](http://www.columbia.edu/~kd2371/#Publications)
 *   [Harrison Hong](http://www.princeton.edu/~hhong/) ([Princeton](http://www.princeton.edu)): [publications](http://www.princeton.edu/~hhong/)
@@ -39,7 +39,7 @@ excerpt_separator: <!--more-->
 
 *   [Lauren Cohen](http://www.people.hbs.edu/lcohen) ([Harvard Business School](http://www.hbs.edu)): [publications](http://www.people.hbs.edu/lcohen)
 
-— **Derivative Pricing** (![\mathbb{Q}](https://s0.wp.com/latex.php?latex=%5Cmathbb%7BQ%7D&bg=ffffff&fg=333333&s=0&c=20201002))
+— **Derivative Pricing**
 
 *   [Peter Carr](http://math.nyu.edu/research/carrp/) ([New York University](http://www.stern.nyu.edu/), [Courant](http://www.cims.nyu.edu/) and [Morgan Stanley](http://www.morganstanley.com/)): [publications](http://math.nyu.edu/research/carrp/research.html)
 *   [Rama Cont](http://www.ieor.columbia.edu/fac-bios/cont/faculty.html) ([Columbia](http://www.cfm.fr)): [publications](http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1114)
@@ -58,7 +58,7 @@ excerpt_separator: <!--more-->
 *   [Didier Sornette](http://www.er.ethz.ch/people/sornette) ([ETH Zürich](http://www.er.ethz.ch)): [publications](http://www.er.ethz.ch/publications)
 *   [Gene Stanley](http://polymer.bu.edu/hes) ([Boston University](http://www.bu.edu/)): [publications](http://polymer.bu.edu/~hes/econophysics)
 
-— **Executive Stock Options** (![\mathbb{P}](https://s0.wp.com/latex.php?latex=%5Cmathbb%7BP%7D&bg=ffffff&fg=333333&s=0&c=20201002))
+— **Executive Stock Options**
 
 *   [Jennifer Carpenter](http://people.stern.nyu.edu/jcarpen0/) ([New York University](http://www.stern.nyu.edu/), [Stern](http://www.stern.nyu.edu/)): [publications](http://people.stern.nyu.edu/jcarpen0/main.htm#research)
 *   [Vicky Henderson](http://www.oxford-man.ox.ac.uk/people/members_henderson.html) ([Oxford-Man Institute of Quantitative Finance](http://www.oxford-man.ox.ac.uk/index.html)<a>):</a> [publications](http://users.ox.ac.uk/~oxma0006/)
@@ -74,7 +74,7 @@ excerpt_separator: <!--more-->
 *   [Frank Nielsen](http://www.lix.polytechnique.fr/~nielsen/) ([École Polytechnique](http://www.polytechnique.fr/jsp/accueil.jsp?CODE=36392593&LANGUE=1)): [publications](http://www.lix.polytechnique.fr/~nielsen/)
 *   [Jorma Rissanen](http://www.mdl-research.org/jorma.rissanen/), [Computer Learning Research Centre](http://www.clrc.rhul.ac.uk/) ([University of London, Royal Holloway](http://www.rhul.ac.uk/home.aspx), MDL): [publications](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Rissanen:Jorma.html)
 
-— **Informed Trading** / **Short Selling** (![\mathbb{P}](https://s0.wp.com/latex.php?latex=%5Cmathbb%7BP%7D&bg=ffffff&fg=333333&s=0&c=20201002))
+— **Informed Trading** / **Short Selling** 
 
 *   [Benjamin Blau](http://sites.google.com/site/blaufinance/) ([Utah State University](http://huntsman.usu.edu)): [publications](http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=608347)
 
@@ -82,7 +82,7 @@ excerpt_separator: <!--more-->
 
 *   [Fabio Mercurio](http://www.fabiomercurio.it/) ([Bloomberg](http://www.bloomberg.com/)): [publications](http://www.fabiomercurio.it/publications.html)
 
-— **International Finance** (![\mathbb{P}](https://s0.wp.com/latex.php?latex=%5Cmathbb%7BP%7D&bg=ffffff&fg=333333&s=0&c=20201002))
+— **International Finance** 
 
 *   [K. Geert Rouwenhorst](http://som.yale.edu/~geert/), [Yale School of Management](http://som.yale.edu) ([Summerhaven](http://www.summerhavenim.com)): [publications](http://som.yale.edu/~geert/Papers.html)
 
