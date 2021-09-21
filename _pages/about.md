@@ -11,8 +11,7 @@ permalink: /about/
 ## Услуги:
 [Управление активами. Условия. Результаты работы](https://ragve-hub.github.io/tale/asset/)
 
-## Часто задаваемые вопросы:
-[По управлению активами](https://ragve-hub.github.io/tale/faq/)
+[Управление активами. Часто задаваемые вопросы](https://ragve-hub.github.io/tale/faq/)
 
 
 
