@@ -43,7 +43,7 @@ excerpt_separator: <!--more-->
 <li><a href="http://www.people.hbs.edu/lcohen">Lauren Cohen</a> (<a href="http://www.hbs.edu">Harvard Business School</a>): <a href="http://www.people.hbs.edu/lcohen">publications</a></li>
 </ul>
 
-<p>&mdash; <strong>Derivative Pricing</strong> (<img src="https://s0.wp.com/latex.php?latex=%5Cmathbb%7BQ%7D&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" alt="&#92;mathbb{Q}" class="latex" />)</p>
+<p>&mdash; <strong>Derivative Pricing</strong> </p>
 <ul>
 <li><a href="http://math.nyu.edu/research/carrp/">Peter Carr</a> (<a href="http://www.stern.nyu.edu/">New York University</a>, <a href="http://www.cims.nyu.edu/">Courant</a> and <a href="http://www.morganstanley.com/">Morgan Stanley</a>): <a href="http://math.nyu.edu/research/carrp/research.html">publications</a></li>
 <li><a href="http://www.ieor.columbia.edu/fac-bios/cont/faculty.html">Rama Cont</a> (<a href="http://www.cfm.fr">Columbia</a>): <a href="http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1114">publications</a></li>
@@ -64,7 +64,7 @@ excerpt_separator: <!--more-->
 <li><a href="http://polymer.bu.edu/hes">Gene Stanley</a> (<a href="http://www.bu.edu/">Boston University</a>): <a href="http://polymer.bu.edu/~hes/econophysics">publications</a></li>
 </ul>
 
-<p>&mdash; <strong>Executive Stock Options</strong> (<img src="https://s0.wp.com/latex.php?latex=%5Cmathbb%7BP%7D&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" alt="&#92;mathbb{P}" class="latex" />)</p>
+<p>&mdash; <strong>Executive Stock Options</strong> </p>
 <ul>
 <li><a href="http://people.stern.nyu.edu/jcarpen0/">Jennifer Carpenter</a> (<a href="http://www.stern.nyu.edu/">New York University</a>, <a href="http://www.stern.nyu.edu/">Stern</a>): <a href="http://people.stern.nyu.edu/jcarpen0/main.htm#research">publications</a></li>
 <li><a href="http://www.oxford-man.ox.ac.uk/people/members_henderson.html">Vicky Henderson</a> (<a href="http://www.oxford-man.ox.ac.uk/index.html">Oxford-Man Institute of Quantitative Finance<a>): <a href="http://users.ox.ac.uk/~oxma0006/">publications</a></li>
