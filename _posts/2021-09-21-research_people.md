@@ -32,14 +32,53 @@ excerpt_separator: <!--more-->
 <li>Pim van Vliet, <a href="http://www.eur.nl/ese">Erasmus School of Economics</a> (<a href="http://www.robeco.com">Robeco</a>): <a href="http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=296465">publications</a></li>
 </ul>
 
-</ul>
 <p>&mdash; <strong>Behavioral Finance</strong> </p>
 <ul>
 <li><a href="http://www.columbia.edu/~kd2371/">Kent Daniel</a> (<a href="http://www.cfm.fr">Columbia</a>, formerly GSAM): <a href="http://www.columbia.edu/~kd2371/#Publications">publications</a></li>
 <li><a href="http://www.princeton.edu/~hhong/">Harrison Hong</a> (<a href="http://www.princeton.edu">Princeton</a>): <a href="http://www.princeton.edu/~hhong/">publications</a></li>
 </ul>
+
 <p>&mdash; <strong>Corporate Finance</strong></p>
 <ul>
 <li><a href="http://www.people.hbs.edu/lcohen">Lauren Cohen</a> (<a href="http://www.hbs.edu">Harvard Business School</a>): <a href="http://www.people.hbs.edu/lcohen">publications</a></li>
 </ul>
+
+<p>&mdash; <strong>Derivative Pricing</strong> (<img src="https://s0.wp.com/latex.php?latex=%5Cmathbb%7BQ%7D&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" alt="&#92;mathbb{Q}" class="latex" />)</p>
+<ul>
+<li><a href="http://math.nyu.edu/research/carrp/">Peter Carr</a> (<a href="http://www.stern.nyu.edu/">New York University</a>, <a href="http://www.cims.nyu.edu/">Courant</a> and <a href="http://www.morganstanley.com/">Morgan Stanley</a>): <a href="http://math.nyu.edu/research/carrp/research.html">publications</a></li>
+<li><a href="http://www.ieor.columbia.edu/fac-bios/cont/faculty.html">Rama Cont</a> (<a href="http://www.cfm.fr">Columbia</a>): <a href="http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1114">publications</a></li>
+<li><a href="http://faculty.baruch.cuny.edu/jgatheral/">Jim Gatheral</a>  (<a href="http://www.baruch.cuny.edu/">Baruch College</a>): <a href="http://faculty.baruch.cuny.edu/jgatheral/">publications</a></li>
+<li><a href="http://www.markjoshi.com/">Mark Joshi</a> (<a href="http://www.unimelb.edu.au/">University of Melbourne</a>): <a href="http://www.markjoshi.com/downloads/index.htm">publications</a></li>
+</ul>
+
+<p>&mdash; <strong>Econophysics</strong></p>
+<ul>
+<li>Jean-Philippe Bouchaud (<a href="http://www.cfm.fr">Capital Fund Management</a>): <a href="http://www.cfm.fr/us/publications.php">publications</a></li>
+<li><a href="http://www.sfu.ca/~rgencay/">Ramazan Gençay</a> (<a href="http://www.sfu.ca/">Simon Fraser University</a>): <a href="http://www.sfu.ca/~rgencay/jarticles.html">publications</a></li>
+<li><a href="http://www.santafe.edu/about/people/profile/Fabrizio%20Lillo">Fabrizio Lillo</a> (<a href="http://www.santafe.edu">Santa Fe Institute</a>): <a href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/l/Lillo:Fabrizio.html">publications</a></li>
+<li>Rosario Mantegna</li>
+<li>Vasiliki Plerou</li>
+<li><a href="http://ideas.repec.org/e/ppo42.html">Marc Potters</a> (<a href="http://www.cfm.fr">Capital Fund Management</a>): <a href="http://www.cfm.fr/us/publications.php">publications</a> </li>
+<li><a href="http://www.tobiaspreis.de">Tobias Preis</a> (<a href="http://www.soms.ethz.ch">ETH Zürich</a>): <a href="http://www.tobiaspreis.de/econophysics.html">publications</a></li>
+<li><a href="http://www.er.ethz.ch/people/sornette">Didier Sornette</a> (<a href="http://www.er.ethz.ch">ETH Zürich</a>): <a href="http://www.er.ethz.ch/publications">publications</a></li>
+<li><a href="http://polymer.bu.edu/hes">Gene Stanley</a> (<a href="http://www.bu.edu/">Boston University</a>): <a href="http://polymer.bu.edu/~hes/econophysics">publications</a></li>
+</ul>
+
+<p>&mdash; <strong>Executive Stock Options</strong> (<img src="https://s0.wp.com/latex.php?latex=%5Cmathbb%7BP%7D&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" alt="&#92;mathbb{P}" class="latex" />)</p>
+<ul>
+<li><a href="http://people.stern.nyu.edu/jcarpen0/">Jennifer Carpenter</a> (<a href="http://www.stern.nyu.edu/">New York University</a>, <a href="http://www.stern.nyu.edu/">Stern</a>): <a href="http://people.stern.nyu.edu/jcarpen0/main.htm#research">publications</a></li>
+<li><a href="http://www.oxford-man.ox.ac.uk/people/members_henderson.html">Vicky Henderson</a> (<a href="http://www.oxford-man.ox.ac.uk/index.html">Oxford-Man Institute of Quantitative Finance<a>): <a href="http://users.ox.ac.uk/~oxma0006/">publications</a></li>
+</ul>
+<p>&mdash; <strong>Financial Econometrics</strong></p>
+<ul>
+<li><a href="http://web.mit.edu/alo/www/">Andrew Lo</a>, <a href="http://lfe.mit.edu/">MIT Laboratory for Financial Engineering</a> (<a href="http://www.alphasimplex.com/">Alpha Simplex</a></strong>, part of <a href="http://www.globalam.natixis.com/en/index.php">Natixis</a>): <a href="http://web.mit.edu/alo/www/articles.html">publications</a></li>
+<li><a href="http://www.kevinsheppard.com/">Kevin Sheppard</a> (<a href="http://www.oxford-man.ox.ac.uk/index.html">Oxford-Man Institute of Quantitative Finance<a>): <a href="http://www.kevinsheppard.com/wiki/Working_Papers">working papers</a> and <a href="http://www.kevinsheppard.com/wiki/Published_Papers">published papers</a></li>
+<li><a href="http://www.chicagobooth.edu/faculty/bio.aspx?person_id=12825860096">Ruey Tsay</a> (<a href="http://www.chicagobooth.edu">University of Chicago</a>): <a href="http://www.lib.uchicago.edu/e/busecon/busfac/Tsay.html">publications</a></li>
+</ul>
+  
+  
+
+
+
+
   
