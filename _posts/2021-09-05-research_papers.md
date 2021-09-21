@@ -127,38 +127,63 @@ Decomposing Portfolio Value-at-Risk: A General Analysis, W.G.Hallerbach, 1999
 
   
 \[[1](http://www.smartquant.com/references/NeuralNetworks/neural1.pdf)\] Feedforward and Recurrent Neural Networks and Genetic Programs for Stock Market and Time Series Forecasting, P.C.McCluskey, 1993
+
 \[[2](http://www.smartquant.com/references/NeuralNetworks/neural2.pdf)\] Clustering of the Self-Organizing Map , Juha Vesanto , 2000
+
 \[[3](http://www.smartquant.com/references/NeuralNetworks/neural3.pdf)\] The Learning Vector Quantization Program Package, T.Kohonen, 1996 
+
 \[[4](http://www.smartquant.com/references/NeuralNetworks/neural4.ps)\] A Neural Network Model for Gold Market, P.J.McCann, B.L.Kalman,1993 
+
 \[[5](http://www.smartquant.com/references/NeuralNetworks/neural5.pdf)\] Prediction Risk and Architecture Selection for Neural Networks, J.Moody, 1994 
+
 \[[6](http://www.smartquant.com/references/NeuralNetworks/neural6.pdf)\] Economic Forecasting: Challenges and Neural Network Solutions, J.Moody, 1995 
+
 \[[7](http://www.smartquant.com/references/NeuralNetworks/neural7.pdf)\] Neural Networks in Economics: Background, Applications and New Developments, R.Herbrich 
 et.al., 1999
+
 \[[8](http://www.smartquant.com/references/NeuralNetworks/neural8.pdf)\] Incorporating Prior Knowledge About Financial Markets Through Neural Multitask Learning, 
 K.Bartlmae et.al., 1995 
+
 \[[9](http://www.smartquant.com/references/NeuralNetworks/neural9.pdf)\] Neural Networks for Time Series Processing, G.Dorffner, 1996 
+
 \[[10](http://www.smartquant.com/references/NeuralNetworks/neural10.pdf)\] Stock Price Prediction Using Neural Networks, F.W.Op’t Landt, MSc. thesis, 1997
+
 \[[11](http://www.smartquant.com/references/NeuralNetworks/neural11.ps.gz)\] Rprop — Description and Implementation Details, M.Riedmiller, 1994
+
 \[[12](http://www.smartquant.com/references/NeuralNetworks/neural12.ps)\] The Self-Organizing Map Program Package, T.Kohonen, 1996
+
 \[[13](http://www.smartquant.com/references/NeuralNetworks/neural13.pdf)\] On the Analysis of Pattern Sequences by Self-Organizing Maps, J.Kangas, 1994 
+
 \[[14](http://www.smartquant.com/references/NeuralNetworks/neural14.ps)\] Dependency Analysis and Neural Network Modeling of Currency Exchange Rates, I.Pi, 1993 
+
 \[[15](http://www.smartquant.com/references/NeuralNetworks/neural15.pdf)\] Forecasting the 30-year U.S. Treasury Bond with a System of Neural Networks, W.Cheng 
 et.al., 1996 
+
 \[[16](http://www.smartquant.com/references/NeuralNetworks/neural16.pdf)\] Optimal Asset Allocation using Adaptive Dynamic Programming, R.Neunejer, 1995 
+
 \[[17](http://www.smartquant.com/references/NeuralNetworks/neural17.pdf)\] A Nonparametric Approach to Pricing and Hedging Derivative Securities Via Learning 
 Networks, J.M.Hutchinson et.al., 1994 
+
 \[[18](http://www.smartquant.com/references/NeuralNetworks/neural18.pdf)\] Comparative Study of Stock Trend Prediction Using Time Delay, Recurrent and Probabilistic 
 Neural Networks , Danil V. Prokhorov, 1998 
+
 \[[19](http://www.smartquant.com/references/NeuralNetworks/neural19.pdf)\] Forecasting Financial Markets using Neural Networks: an Analysis of Methods and Accuracy, J.Kutsurelis, 1998 
-\[[20](http://www.smartquant.com/references/NeuralNetworks/neural20.pdf)\] On Developing a Financial Prediction System: Pitfalls and Possibilities , Stefan Zemke \[[21](http://www.smartquant.com/references/NeuralNetworks/neural21.pdf)\] A Case Study on Using Neural Networks to Perform Technical Forecasting on FOREX, J.Yao and C.Tan, 1999
+
+\[[20](http://www.smartquant.com/references/NeuralNetworks/neural20.pdf)\] On Developing a Financial Prediction System: Pitfalls and Possibilities , Stefan Zemke 
+
+\[[21](http://www.smartquant.com/references/NeuralNetworks/neural21.pdf)\] A Case Study on Using Neural Networks to Perform Technical Forecasting on FOREX, J.Yao and C.Tan, 1999
 
 # Монте-карло симуляции :
 
 
 \[[1](http://www.smartquant.com/references/MonteCarlo/mc2.pdf)\] Efficient Monte Carlo Pricing of Basket Options, P.Bellizzari, 1998 
+
 \[[2](http://www.smartquant.com/references/MonteCarlo/mc5.pdf)\] Path Generation for Quasi-Monte Carlo Simulation of Mortgage Backed Securities, F.Akersson and J.Lehoczky, 2000 
+
 \[[3](http://www.smartquant.com/references/MonteCarlo/mc6.pdf)\] Applications of Monte Carlo/Quasi-Monte Carlo Methods in Finance: Option Pricing, Y.Lai and J.Spanier, 1999 
+
 \[[4](http://www.smartquant.com/references/MonteCarlo/mc7.pdf)\] Variance Reduction of Monte Carlo and Randomized Quasi-Monte Carlo Estimators for Stochastic Volatility Models in Finance, H.Ben Ameur et.al., 1999
+
 \[[5](http://www.smartquant.com/references/MonteCarlo/mc8.pdf)\] Markov Chain Monte Carlo Calibration of Stochastic Volatility Models, X.Ge and C.Ji, 2000
 
 # Теория игр :
