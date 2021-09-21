@@ -2,7 +2,7 @@
 layout: post
 title: О предвзятости
 date: 2020-09-15 17:06:52
-tags: Рекомендации/Прочее
+tags: Рекомендации
 excerpt_separator: <!--more-->
 ---
 
