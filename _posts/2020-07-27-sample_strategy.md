@@ -8,7 +8,7 @@ hidden: true
 
  Мы используем различные инструменты для разработки и тестирования стратегий на исторических данных.
 
-## Pool Smartquant :
+## Пул smartquant :
 
 [5% Down-In-One-Day Panic Recovery](https://ragve-hub.github.io/tale/2021-03-10/5panic-day)
 
@@ -43,7 +43,7 @@ hidden: true
 
 
 
-## Multicharts:
+## Мультичартс :
 
 [Портфель стратегий Brent by Jonh Gold](https://ragve-hub.github.io/tale/2021-06-15/brent_by_JG)
 
