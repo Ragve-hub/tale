@@ -3,6 +3,7 @@ layout: post
 title: Расчет кастом breadth индикаторов
 date: 2021-10-02 13:06:52
 tags: C#
+hidden: true
 excerpt_separator: <!--more-->
 ---
 Фрагмент кода, который вычисляет и рисует среднее значение цен закрытия MSFT и AAPL. Таким образом
