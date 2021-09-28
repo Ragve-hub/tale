@@ -2,7 +2,7 @@
 layout: post
 title: Индикатор momersion by Michael Harris
 date: 2021-07-25 11:06:52
-tags: Язык R
+tags: R
 excerpt_separator: <!--more-->
 ---
 
