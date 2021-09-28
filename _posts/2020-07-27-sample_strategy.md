@@ -2,7 +2,6 @@
 layout: post
 title: Торговые стратегии. Примеры
 date: 2021-06-20 21:06:52
-tags: Разработка
 hidden: true
 ---
 
