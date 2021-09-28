@@ -18,6 +18,6 @@ permalink: /about/
 ## Разработка
 [Платформа для разработки](https://ragve.ru/framework/)
 
-[Примеры торговых стратегий](https://ragve.ru/2021-06-20/sample_strategy/)
+[Примеры торговых стратегий](https://ragve.ru/2021-06-20/sample_strategy)
 
-[Совместная работа](https://ragve.ru/2020-06-21/work/)
+[Совместная работа](https://ragve.ru/2020-06-21/work)
