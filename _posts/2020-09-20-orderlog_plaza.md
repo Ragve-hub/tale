@@ -2,7 +2,7 @@
 layout: post
 title: Исследование полного лога заявок
 date: 2021-09-20 07:06:52
-tags: Язык R
+tags: R
 excerpt_separator: <!--more-->
 ---
 
