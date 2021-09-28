@@ -3,6 +3,7 @@ layout: post
 title: Исследование полного лога заявок
 date: 2021-09-20 07:06:52
 tags: R
+hidden: true
 excerpt_separator: <!--more-->
 ---
 
