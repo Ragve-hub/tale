@@ -16,6 +16,7 @@ permalink: /about/
 [Управление активами. Размещение оборудования](https://www.dataspace.ru/data-center/cod_dataspace/)
 
 [Совместная работа](https://ragve.ru/2021-06-21/совместная-работа/)
+
 [Торговые стратегии. Примеры](https://ragve.ru/2021-06-20/sample_strategy)
 
 
