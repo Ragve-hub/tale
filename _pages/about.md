@@ -11,8 +11,6 @@ permalink: /about/
 ## Услуги
 [Условия. Результаты работы](https://ragve-hub.github.io/tale/asset/)
 
-[Размещение оборудования](https://www.dataspace.ru/data-center/cod_dataspace/)
-
 [Часто задаваемые вопросы](https://ragve-hub.github.io/tale/faq/)
 
 ## Разработка
