@@ -10,9 +10,11 @@ permalink: /about/
 
 
 [Управление активами. Условия. Результаты работы](https://ragve-hub.github.io/tale/asset/)
+
 [Управление активами. Часто задаваемые вопросы](https://ragve-hub.github.io/tale/faq/)
 
 [Управление активами. Платформа для разработки](https://ragve.ru/framework/)
+
 [Управление активами. Размещение оборудования](https://www.dataspace.ru/data-center/cod_dataspace/)
 
 [Совместная работа](https://ragve.ru/2021-06-21/совместная-работа/)
