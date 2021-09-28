@@ -3,6 +3,7 @@ layout: post
 title: Анализ данных за разные периоды времени
 date: 2021-09-29 15:06:52
 tags: C#
+hidden: true
 excerpt_separator: <!--more-->
 ---
 
