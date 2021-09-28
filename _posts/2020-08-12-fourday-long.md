@@ -1,5 +1,6 @@
 ---
 title: Four Down Days and Long
+hidden: true
 date: 2020-08-12 07:23:45
 ---
 
