@@ -1,6 +1,7 @@
 ---
 title: Портфель стратегий Brent by Jonh Gold
 date: 2021-06-15 09:23:45
+hidden: true
 excerpt_separator: <!--more-->
 ---
 
