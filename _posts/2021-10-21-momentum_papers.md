@@ -44,9 +44,7 @@ excerpt_separator: <!--more-->
 <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1534325">Time-Varying Momentum Profitability</a> (Wang and Xu, 2010)
 
 
-В литературе было предложено множество объяснений касательно эффективности, и продолжительности импульса. 
-
-### Превалирует мнение, что это когнитивное искажение (essentially cognitive bias):
+В литературе было предложено множество объяснений касательно эффективности, и продолжительности импульса. Превалирует мнение, что это когнитивное искажение (essentially cognitive bias).
 
 <ul>
 <li><a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=227214">When are Contrarian Profits Due to Stock Market Overreaction?</a>, Lo and Mackinlay  (1990)</li>
