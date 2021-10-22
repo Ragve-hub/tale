@@ -14,7 +14,7 @@ excerpt_separator: <!--more-->
 
 <li><a href="http://www.jstor.org/pss/2328882">Returns to Buying Winners and Selling Losers: Implications for Stock Market Efficiency</a>, Jegadeesh and Titman (1993)</li>
 
-<li>Variables that Explain Stock Returns: Simulated and Empirical Evidence</cite>, Asness (1994)</li>
+<li>Variables that Explain Stock Returns: Simulated and Empirical Evidence, Asness (1994)</li>
 
 
 ---------------------
