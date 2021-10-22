@@ -21,7 +21,7 @@ excerpt_separator: <!--more-->
 
 ### Последующая литература продемонстрировала кросс-секционную эффективность по рынкам, классам активов и времени:
 
-<a href="http://ideas.repec.org/a/eee/empfin/v11y2004i4p483-507.html"> Style Momentum Within the S&amp;P 500 Index</a> (Chen and De Bondt; 2004) and <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1594143&amp;rec=1&amp;srcabs=1726443">Cross-Asset Style Momentum</a> (Kim; 2010)</li>
+<li><a href="http://ideas.repec.org/a/eee/empfin/v11y2004i4p483-507.html"> Style Momentum Within the S&amp;P 500 Index</a> (Chen and De Bondt; 2004) and <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1594143&amp;rec=1&amp;srcabs=1726443">Cross-Asset Style Momentum</a> (Kim; 2010)</li>
 <li>Industry / Sector: <a href="http://ideas.repec.org/a/bla/jfinan/v54y1999i4p1249-1290.html">Do Industries Explain Momentum?</a>, Moskowitz and Grinblatt (1999)</li>
 <li>Smallcap (ex-micro): <a href="http://ideas.repec.org/p/nbr/nberwo/6553.html">Bad News Travels Slowly: Size, Analyst Coverage, and the Profitability of Momentum Strategies</a>, Hong <em>et al</em> (1999)</li>
 <li>European Equities: <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=4407">International Momentum Strategies</a>, Rouwenhorst  (1997)</li>
@@ -34,14 +34,13 @@ excerpt_separator: <!--more-->
 <li>Commodities: <a href="http://ideas.repec.org/a/eee/jbfina/v31y2007i6p1863-1886.html">Momentum strategies in commodity futures markets</a>, Miffre and Rallis (2007)</li>
 <li>Cross-Asset: <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=7482">Parallels Between the Cross-sectional Predictability of Stock and Country Returns</a> (Asness <em>et al</em>, 1997), <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1079975">Global Tactical Cross-Asset Allocation: Applying Value and Momentum Across Asset Classes</a> (Blitz and Van Vliet; 2007), and <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1363476">Momentum and Value Everywhere</a> (Asness, Moskowitz, and Pedersen; 2009)</li>
 <li>Inter-Asset: <a href="http://ideas.repec.org/a/ucp/jnlbus/v79y2006i1p429-428.html">Macromomentum: Returns Predictability in International Equity Indices</a>, Bhojraj (2006)</li>
-</ul>
+
 
 Показано, что даже 52-недельные максимумы, неизменно любимые техническими аналитиками, связаны с моментумом. <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1104491">52-Week High and Momentum Investing</a> (George and Hwang, 2004).
 
 ### Эффективность временных рядов была продемонстрирована в: 
 
 <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=299927">Market States and Momentum</a> (Gutierrez <em>et al</em>, 2003)
-
 <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1534325">Time-Varying Momentum Profitability</a> (Wang and Xu, 2010)
 
 
@@ -76,7 +75,7 @@ excerpt_separator: <!--more-->
 
 <ul>
 <li><a href="http://www.jstor.org/pss/2329112">The Cross-Section of Expected Stock Returns</a>, Fama and French (1992)</li>
-<li><a href="http://www.jstor.org/pss/2329262">Contrarian Investment Extrapolation and Risk</a>, Lakonishok, Shleifer, and Vishny (1994)</a></li>
+<li><a href="http://www.jstor.org/pss/2329262">Contrarian Investment Extrapolation and Risk</a>, Lakonishok, Shleifer, and Vishny (1994)</li>
 <li><a href="http://www.jstor.org/pss/2329556">On Persistence in Mutual Fund Performance</a>, Carhart (1997)</li>
 </ul>
 
