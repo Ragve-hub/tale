@@ -36,6 +36,8 @@ hidden: true
 
 ## Паттерны. Фьючерс на индекс РТС :
 
+[Стратегия N3](https://ragve.ru/2021-03-11/pattern_3)
+
 [Стратегия N2](https://ragve.ru/2021-07-11/pattern_2)
 
 [Стратегия N1](https://ragve.ru/2021-07-10/pattern_1)
