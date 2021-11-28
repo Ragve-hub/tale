@@ -53,5 +53,6 @@ and <a href="http://pages.stern.nyu.edu/~jhasbrou/">Hasbrouck</a>.
 <li><a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=141615">Pairs Trading: Performance of a Relative Value Arbitrage Rule</a>, Gatev, Goetzmann, and Rouwenhorst (1998)</li>
 </ul>
 
-  Market Microstructure for Practitioners</a> (Harris), <a href="http://books.google.com/books?id=aaReNv846eMC">Empirical Market Microstructure</a> (Hasbrouck),
-  и <a href="http://books.google.com/books?id=udXjR2Dg7bwC">Market Microstructure Theory</a> (O’Hara).</p>
+
+Market Microstructure for Practitioners</a> (Harris), <a href="http://books.google.com/books?id=aaReNv846eMC">Empirical Market Microstructure</a> (Hasbrouck),
+и <a href="http://books.google.com/books?id=udXjR2Dg7bwC">Market Microstructure Theory</a> (O’Hara).</p>
