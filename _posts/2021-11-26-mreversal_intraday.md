@@ -54,5 +54,7 @@ and <a href="http://pages.stern.nyu.edu/~jhasbrou/">Hasbrouck</a>.
 </ul>
 
 
+
+
 Market Microstructure for Practitioners (Harris), <a href="http://books.google.com/books?id=aaReNv846eMC">Empirical Market Microstructure</a> (Hasbrouck),
 и <a href="http://books.google.com/books?id=udXjR2Dg7bwC">Market Microstructure Theory</a> (O’Hara).</p>
