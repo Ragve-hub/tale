@@ -26,7 +26,7 @@ excerpt_separator: <!--more-->
 <li><a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1153505">Statistical Arbitrage in the US Equities Market</a>, Avellaneda and Lee (2008)</li>
 </ul>
   
-  
+ <p> 
   
 Первые хорошо известные шесть вводят аномалию реверсии и сверхреакции FF в различных обличьях.
 Диссертация Берджесса является венцом четырехлетних исследований по автоматизации и использованию новых методов машинного обучения для дневной реверсии .
