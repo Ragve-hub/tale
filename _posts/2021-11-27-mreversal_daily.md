@@ -20,7 +20,7 @@ excerpt_separator: <!--more-->
 * <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=227214">When are Contrarian Profits due to Stock Market Overreaction</a>, Lo and MacKinlay (1990)
 * <a href="http://ideas.repec.org/a/bla/jfinan/v45y1990i3p881-98.html">Evidence of Predictable Behavior of Security Returns</a>, Jegadeesh (1990)
 * <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=227518">Fads, Martingales, and Market Efficiency</a>, Lehmann (1990)
-* <cite>A Computational Methodology for Modelling the Dynamics of Statistical Arbitrage</cite>, Burgess (1999)</li>
+* <cite>A Computational Methodology for Modelling the Dynamics of Statistical Arbitrage</cite>, Burgess (1999)
 * <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1153505">Statistical Arbitrage in the US Equities Market</a>, Avellaneda and Lee (2008)
 
 
