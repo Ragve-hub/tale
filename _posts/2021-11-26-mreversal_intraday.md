@@ -42,10 +42,10 @@ Intraday все больше выходит за рамки финансов и 
 Хотя это делает его интересным для Quantivity, чисто финансовые специалисты оказываются в невыгодном положении.
 
 <p>С академической точки зрения, внутридневной график рассматривается в основном в литературе по микроструктуре рынка. Смотрите <a href="http://www.elsevier.com/wps/find/journaleditorialboard.cws_home/600652/editorialboard">JFM Editorial Board</a> ;
- возможно, самыми известными из них являются <a href="http://www-bcf.usc.edu/~lharris/">Harris</a>, <a href="http://www.johnson.cornell.edu/Faculty-And-Research/Profile.aspx?id=mo19">O&#8217;Hara</a>,
-and <a href="http://pages.stern.nyu.edu/~jhasbrou/">Hasbrouck</a>. 
+ возможно, самыми известными из них являются <a href="http://www-bcf.usc.edu/~lharris/">Harris</a>, <a href="http://www.johnson.cornell.edu/Faculty-And-Research/Profile.aspx?id=mo19">O&#8217;Hara</a>, и <a href="http://pages.stern.nyu.edu/~jhasbrou/">Hasbrouck</a>. 
   
-
+<br>
+ 
 **Ниже приводится литература по микроструктуре:**
 
 <ul>
