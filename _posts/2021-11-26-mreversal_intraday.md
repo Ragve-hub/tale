@@ -44,9 +44,7 @@ Intraday все больше выходит за рамки финансов и 
 <p>С академической точки зрения, внутридневной график рассматривается в основном в литературе по микроструктуре рынка. Смотрите <a href="http://www.elsevier.com/wps/find/journaleditorialboard.cws_home/600652/editorialboard">JFM Editorial Board</a> ;
  возможно, самыми известными из них являются <a href="http://www-bcf.usc.edu/~lharris/">Harris</a>, <a href="http://www.johnson.cornell.edu/Faculty-And-Research/Profile.aspx?id=mo19">O&#8217;Hara</a>, и <a href="http://pages.stern.nyu.edu/~jhasbrou/">Hasbrouck</a>. 
   
-<br>
- 
-**Ниже приводится литература по микроструктуре:**
+
 
 <ul>
 <li><a href="http://ideas.repec.org/a/eee/jfinec/v16y1986i1p99-117.html">A Transaction Data Study of Weekly and Intradaily Patterns in Stock Returns</a>, Harris (1984)</li>
