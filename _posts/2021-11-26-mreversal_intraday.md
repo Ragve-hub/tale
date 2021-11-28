@@ -22,7 +22,7 @@ excerpt_separator: <!--more-->
 и <cite><a href="http://en.wikipedia.org/wiki/A_Demon_Of_Our_Own_Design">A Demon of our Own Design</a></cite>, соответственно.
 
 
-Литература по внутридневным реверсиям довольно анемична из-за следующих факторов :
+**Литература по внутридневным реверсиям довольно анемична из-за следующих факторов :**
 
 * Собственность: фонды достаточно тщательно охраняют раскрытие этих методов.
 
@@ -45,7 +45,8 @@ Intraday все больше выходит за рамки финансов и 
  возможно, самыми известными из них являются <a href="http://www-bcf.usc.edu/~lharris/">Harris</a>, <a href="http://www.johnson.cornell.edu/Faculty-And-Research/Profile.aspx?id=mo19">O&#8217;Hara</a>,
 and <a href="http://pages.stern.nyu.edu/~jhasbrou/">Hasbrouck</a>. 
   
-  Ниже приводится литература по микроструктуре:
+
+**Ниже приводится литература по микроструктуре:**
 
 <ul>
 <li><a href="http://ideas.repec.org/a/eee/jfinec/v16y1986i1p99-117.html">A Transaction Data Study of Weekly and Intradaily Patterns in Stock Returns</a>, Harris (1984)</li>
