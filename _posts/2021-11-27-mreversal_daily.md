@@ -24,12 +24,14 @@ excerpt_separator: <!--more-->
 <li><a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=227518">Fads, Martingales, and Market Efficiency</a>, Lehmann (1990)</li>
 <li><cite>A Computational Methodology for Modelling the Dynamics of Statistical Arbitrage</cite>, Burgess (1999)</li>
 <li><a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1153505">Statistical Arbitrage in the US Equities Market</a>, Avellaneda and Lee (2008)</li>
-</ul>
+
   
- <p> 
+<br> 
   
 Первые хорошо известные шесть вводят аномалию реверсии и сверхреакции FF в различных обличьях.
+  
 Диссертация Берджесса является венцом четырехлетних исследований по автоматизации и использованию новых методов машинного обучения для дневной реверсии .
+  
 Доказав, что мир тесен, Берджесс нанят… как вы уже догадались, Морган Стэнли. Наконец, Авельянеда и Ли ретроспективно изучают ситуацию,
 фиксируя конкуренцию и возможную торговую платформу элементарных стратегий внутридневного возврата.
   
