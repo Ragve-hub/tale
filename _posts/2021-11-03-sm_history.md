@@ -5,7 +5,7 @@ date: 2021-11-03 20:06:52
 tags: Свингмашина
 hidden: true
 excerpt_separator: <!--more-->
-
+---
 
 В 1977 году Arthur A. Merrill  опубликовал книгу под названием Filtered Waves - Basic Theory.
 В этом трактате он изложил концепцию «простой классификации волн по амплитуде. 
