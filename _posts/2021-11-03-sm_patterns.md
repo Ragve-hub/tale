@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Характеристика паттернов
-date: 2021-11-04 20:06:52
+date: 2021-11-03 20:06:52
 tags: Свингмашина
 hidden: true
 excerpt_separator: <!--more-->
