@@ -18,4 +18,3 @@ permalink: /about/
 
 [Примеры торговых стратегий](https://ragve.ru/2021-06-20/sample_strategy)
 
-[Совместная работа](https://ragve.ru/2020-06-21/work)
