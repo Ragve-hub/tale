@@ -13,8 +13,3 @@ permalink: /about/
 
 [Часто задаваемые вопросы](https://ragve-hub.github.io/tale/faq/)
 
-## Разработка
-[Платформа для разработки](https://ragve.ru/framework/)
-
-[Примеры торговых стратегий](https://ragve.ru/2021-06-20/sample_strategy)
-
