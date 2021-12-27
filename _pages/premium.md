@@ -33,15 +33,15 @@ permalink: /premium/
 
 
 
-<form method="POST" action="https://formspree.io/<YOUR_EMAIL_HERE>">
-  <input type="email" name="email" placeholder="Your email">
-  <input type="text" name="name" placeholder="Your name">
-  <textarea name="message" placeholder="Your message" rows="3">
-  </textarea>
-  <button type="submit">Send Message</button>
+{::nomarkdown}
+<form action="http://formspree.io/moqeoggo method="POST">
+  <input type="email" name="_replyto">
+  <textarea   name="body"></textarea>
+  <input type="submit" value="Send">
 </form>
 
 
+{:/nomarkdown}
 
 
 
