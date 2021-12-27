@@ -9,7 +9,7 @@ permalink: /premium/
 
 ## Доступ
 
-[Вход на сервер](https://discord.gg/V6arrKAUrh) (общение на сервере бесплатно)
+[Вход на сервер](https://discord.gg/V6arrKAUrh) (общение бесплатно)
 
 ## Премиум
 
