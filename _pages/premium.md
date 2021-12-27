@@ -32,6 +32,7 @@ permalink: /premium/
 [Вход на сервер](https://discord.gg/V6arrKAUrh)
 
 
+
 <form method="POST" action="https://formspree.io/<YOUR_EMAIL_HERE>">
   <input type="email" name="email" placeholder="Your email">
   <input type="text" name="name" placeholder="Your name">
