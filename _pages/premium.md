@@ -32,15 +32,12 @@ permalink: /premium/
 [Вход на сервер](https://discord.gg/V6arrKAUrh)
 
 
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
-  <fieldset id="fs-frm-inputs">
-    <label for="full-name"></label>
-    <input type="text" name="name" id="full-name" placeholder="ФИО" required="">
-    <label for="email-address"></label>
-    <input type="email" name="_replyto" id="email-address" placeholder="Ваш email" required="">
-         <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
-  </fieldset>
-  <input type="submit" value="Подписаться">
+<form method="POST" action="https://formspree.io/<YOUR_EMAIL_HERE>">
+  <input type="email" name="email" placeholder="Your email">
+  <input type="text" name="name" placeholder="Your name">
+  <textarea name="message" placeholder="Your message" rows="3">
+  </textarea>
+  <button type="submit">Send Message</button>
 </form>
 
 
