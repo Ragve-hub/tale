@@ -31,6 +31,7 @@ permalink: /premium/
 - [доступ к пакету торговых стратегий](https://ragve.ru/2021-06-20/sample_strategy)
 
 - [участие в разработке](https://ragve.ru/framework/)
+- роль на сервере. Доступ к Github
 
 
 
