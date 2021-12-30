@@ -17,7 +17,7 @@ permalink: /premium/
 - Текущий обзор рынка. акции, облигации, фьючерсы, опционы
 - Drummond Geometry
 - Swingmachine 
-- Языки Multicharts, C#, R.
+- Языки Multicharts, C#, R
 
 ** за исключением рецептов алгоритмических стратегий.
  
