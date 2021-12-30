@@ -17,7 +17,7 @@ permalink: /premium/
 - Текущий обзор рынка. акции, облигации, фьючерсы, опционы
 - Drummond Geometry
 - Swingmachine 
-- Языки Multicharts, C#, R
+- Языки multicharts, c#, r
 
 ** за исключением рецептов алгоритмических стратегий.
  
@@ -28,11 +28,11 @@ permalink: /premium/
 
 ## Бонус от продления подписки:
 
-- роль на сервере. Доступ к Github
+- Роль на сервере. Доступ к Github
 
-- [доступ к пакету торговых стратегий](https://ragve.ru/2021-06-20/sample_strategy)
+- [Доступ к пакету торговых стратегий](https://ragve.ru/2021-06-20/sample_strategy)
 
-- [участие в разработке](https://ragve.ru/framework/)
+- [Участие в разработке](https://ragve.ru/framework/)
 
 
 
