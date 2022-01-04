@@ -16,3 +16,7 @@ permalink: /about/
 ## Совместная работа
 
 [Премиум доступ](https://ragve.ru/premium/)
+
+## Контент
+
+[Подписка на рассылку](https://ragve.ru/2022-01-04/sticky-posts)
