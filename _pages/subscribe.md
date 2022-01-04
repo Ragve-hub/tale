@@ -4,7 +4,14 @@ title: "Подписка"
 permalink: /subscribe/
 ---
 
-Подписка на блог
+## Открыта тестовая подписка
+
+Подписка и рассылка означает, что вы можете подписаться только на ту информацию, которая вам интересна в данный момент.
+
+
+## Подписаться
+ 
+
 
 <form method="POST" action="https://cp.unisender.com/ru/subscribe?hash=6depdmqga8exdo6iksq5o1xazpj4w4saegmphg8fwi758zrs9f9oo" name="subscribtion_form">
     <div class="subscribe-form-item subscribe-form-item--input-email">
