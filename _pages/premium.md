@@ -33,7 +33,7 @@ permalink: /premium/
 
 - Прямой доступ к Moex  - Plaza2/Smartcom/Transaq connector/Fix/Fast
 
-- Исполнение заявок на своем отдельном сервере Vds/Colocation
+- Исполнение заявок на своем сервере Vds/Colocation
 
 ## Стоимость
 
