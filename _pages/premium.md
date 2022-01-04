@@ -27,13 +27,14 @@ permalink: /premium/
 
 ## Что внутри
 
-- Отдельная роль на сервере. Код стратегий на Github
-
 - Алгоритмическая инфраструктура. [Единый фреймворк на C#](https://ragve.ru/framework/)
 
 - Прямой доступ к Moex  - Plaza2/Smartcom/Transaq connector/Fix/Fast
 
 - Исполнение заявок на своем сервере Vds/Colocation
+
+- Отдельная роль на сервере. Программирование. Github
+
 
 ## Стоимость
 
