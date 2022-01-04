@@ -10,8 +10,6 @@ C 2022 года, по инициативе читателей контент б�
 
 <!--more-->
 
-## Открыта подписка
-
 <form method="POST" action="https://cp.unisender.com/ru/subscribe?hash=6depdmqga8exdo6iksq5o1xazpj4w4saegmphg8fwi758zrs9f9oo" name="subscribtion_form">
     <div class="subscribe-form-item subscribe-form-item--input-email">
         <label class="subscribe-form-item__label subscribe-form-item__label--input-email subscribe-form-item__label--required">E-mail</label>
