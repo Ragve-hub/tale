@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "О контенте"
+title: "Подписка"
 sticky: true
 hidden: true
 excerpt_separator: <!--more-->
