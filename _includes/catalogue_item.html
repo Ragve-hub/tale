@@ -5,7 +5,11 @@
     <span class="catalogue-pinned">Важно &middot; </span>
     {% endif %}
   
-   
+   {% if page.date %}
+      <br>
+    {% include date.html date=page.date %}
+    {% endif %}
+    
  <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%-d %B, %Y" }}</time>
        
     
