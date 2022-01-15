@@ -29,3 +29,9 @@ Behind The Intraday Return? A Retrospective” by Branch and Ma.
 
 * Night Returns” by Aretz and Bartram and “Strikingly Suspicious Overnight and 
 Intraday Returns” by Knuteson
+
+
+Объяснения можно найти анализируя практику алгоритмической торговлиу хедж-фондов и других финансовых учреждений.
+
+* Domowitz and Yegerman (2005) and Yang and Borkovec (2005)
+
