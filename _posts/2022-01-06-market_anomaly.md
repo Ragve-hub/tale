@@ -6,13 +6,12 @@ tags: Рекомендации
 excerpt_separator: <!--more-->
 ---
 
- Многие трейдеры заметили, что американские акции имеют значительно более высокую доходность 
-во время ночной сессии по сравнению с дневной. Несколько академических исследований 
-подтвердили это подозрение и обнаружили, что премия по акциям США в основном обусловлена overnight доходностью.
+С 93 по 2008 года, многие трейдеры заметили, что американские акции имеют значительно более высокую доходность 
+во время ночной сессии по сравнению с дневной.
 
 <!--more-->
 
-<img src="https://ragve.ru/images/movernight.png" alt="">
+ <img src="https://ragve.ru/images/movernight.png" alt="">
 
  Это явление называется ночной аномалией и описано в Gulen in “Return Differences between Trading and 
 Non-Trading Hours: Like Night and Day” by Cooper, Cliff and in “Overnight Return, the Invisible Hand 
