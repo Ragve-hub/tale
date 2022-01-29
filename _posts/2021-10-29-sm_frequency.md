@@ -16,4 +16,5 @@ Leg2,3 - предшествующие
 
  ## Все траектории. Сортировка по убыванию:
 
-<img src="https://ragve.ru/images/58_freq.png" alt="">
+<img src="https://ragve.ru/images/all_freq.png" alt="">
+<img src="https://ragve.ru/images/all_freq_c.png" alt="">
