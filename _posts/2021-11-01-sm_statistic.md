@@ -16,7 +16,7 @@ excerpt_separator: <!--more-->
 
 <img src="https://ragve.ru/images/sw_stat.png" alt="">
 
-<!--more-->
+А также посмотреть статистику окончания направленных движений
 
 <img src="https://ragve.ru/images/sw_stat2.png" alt="">
 
