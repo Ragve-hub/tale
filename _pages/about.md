@@ -15,8 +15,6 @@ permalink: /about/
 
 ## Консультации
 
-[Условия. Тарифы](https://ragve.ru/consult/)
-
 [Экспертная поддержка портфеля](https://ragve.ru/support_portfolio/)
 
 [Страхование ценовых рисков](https://ragve.ru/hedge/)
