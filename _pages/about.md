@@ -17,7 +17,9 @@ permalink: /about/
 
 [Условия. Этапы работы](https://ragve.ru/support_portfolio/)
 
-[Страхование ценовых рисков](https://ragve.ru/hedge/)
+## Cтрахование ценовых рисков
+
+[Условия. Этапы работы](https://ragve.ru/hedge/)
 
 ## Текущие обзоры
 [Премиум доступ](https://ragve.ru)
