@@ -17,9 +17,6 @@ permalink: /about/
 
 [Условия. Этапы работы](https://ragve.ru/hedge/)
 
-## Текущие обзоры
-[Премиум доступ](https://ragve.ru)
-
 ## Совместная работа
 [Премиум доступ](https://ragve.ru/premium/)
 
