@@ -28,5 +28,5 @@ permalink: /about/
 
 [Дискорд](https://discord.gg/V6arrKAUrh)
 
-
+ 
 
