@@ -26,7 +26,5 @@ permalink: /about/
 ## Совместная работа
 [Премиум доступ](https://ragve.ru/premium/)
 
-[Дискорд](https://discord.gg/V6arrKAUrh)
-
  
 
