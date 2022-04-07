@@ -56,21 +56,5 @@ permalink: /premium/
 
 
 
-<iframe style="height:300px; width:300px;" src="https://github.com/ragve-hub">
-<b>IFrame is unavailable here</b>
-</iframe>
-
-<iframe style="height:300px; width:300px;" src="https://ragve-hub.github.io">
-<b>IFrame is unavailable here</b>
-</iframe>
-
-
-<div class="github-widget" data-username="ragve-hub"></div>
-<script src="https://unpkg.com/github-card@1.2.1/dist/widget.js"></script>
-
-
-
-
-
 
 
