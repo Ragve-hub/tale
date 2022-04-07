@@ -23,8 +23,6 @@ permalink: /about/
 
 [Условия. Этапы работы](https://ragve.ru/hedge/)
 
-## Совместная работа
-[Премиум доступ](https://ragve.ru/premium/)
 
  
 
