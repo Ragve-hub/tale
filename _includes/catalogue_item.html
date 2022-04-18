@@ -12,7 +12,7 @@
   
      {% include date.html date=page.date %}
 
-<time datetime="{{% include date.html date=page.date % }}" class="catalogue-time">{{ page.date  }}</time>       
+<time datetime="{{% include date.html date=page.date % }}" class="catalogue-time">{{ post.date | date: "%-d %B, %Y"   }}</time>       
     
     <h1 class="catalogue-title">{{ post.title }}</h1>
     <div class="catalogue-line"></div>
