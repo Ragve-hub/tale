@@ -15,8 +15,8 @@
 {% include date.html date=post.date %}
     
     
-<time datetime="{{ post.date }}" class="catalogue-time">
-{{ post.date | date: "%-d %-m, %Y" }}
+<time datetime="{{ date }}" class="catalogue-time">
+{{ date | date: "%-d %B, %Y" }}
     </time>
 
 <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%-d %B, %Y" }}</time>
