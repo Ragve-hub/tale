@@ -17,7 +17,8 @@ layout: default
   
   {% for post in paginator.posts %}
     {% include catalogue_item.html %}
- 
+ {% include date.html date=page.date %}
+
   {% endfor %}
 </div>
 
