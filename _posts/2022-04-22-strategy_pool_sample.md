@@ -37,9 +37,9 @@ hidden: true
 
 [Портфель стратегий Brent by Jonh Gold](https://ragve.ru/2021-06-15/brent_by_JG)
 
-[Индикатор Флэт/тренд by Jurik Research](https://ragve.ru/2021-03-01/Индикатор Флэт_тренд)
+[Индикатор Флэт/тренд by Jurik Research](https://ragve.ru/2021-03-01/flat_jurik)
 
-[Фонарик новичка by Oldman](https://ragve.ru/2021-02-25/Фонарик новичка by Oldman)
+[Фонарик новичка by Oldman](https://ragve.ru/2021-02-25/f_oldman)
 
 
 
