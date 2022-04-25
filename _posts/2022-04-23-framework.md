@@ -1,14 +1,13 @@
 ---
 layout: post
 title: Алгоритмический Фреймворк
-date: 2022-04-25 21:06:52
+date: 2022-04-23 21:06:52
 tags: Фреймфорк
 excerpt_separator: <!--more-->
 hidden: true
 ---
  
 <img src="https://ragve.ru/images/oq1.png" alt="">
-
 
 
 Программная среда предоставляет базовые функции рисования и визуализации графиков,
