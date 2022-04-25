@@ -8,7 +8,8 @@ hidden: true
 ---
  
 
-<img src="https://ragve.ru/images/oq1.png" alt="">
+
+<img src="https://ragve.ru/images/oq1.png" alt="Фундаментальный анализ">
 
 Программная среда предоставляет базовые функции рисования и визуализации графиков,
 которые полезны для того, чтобы понять, что вы закачали правильные данные
@@ -25,7 +26,7 @@ hidden: true
 
 The quant fund setup is a full institutional infrastructure for a quant fund of any size. It includes integrated development environment (OpenQuant), a production trading environment (QuantTrader), and centralized data management (QuantBase) and data and order routing (QuantRouter). 
 
-<img src="https://ragve.ru/images/oq2.png" alt="">
+<img src="https://ragve.ru/images/oq2.png" alt="Фундаментальный анализ">
 
 ----------
 Получение данных и исполнение сделок 
@@ -52,11 +53,11 @@ range - (high - low) multiplied by 10000
 
 quotes - bid,ask
 
-<img src="https://ragve.ru/images/data1.png" alt="">
+<img src="https://ragve.ru/images/data1.png" alt="Фундаментальный анализ">
 
 marketdepth - изменение стакана
 
-<img src="https://ragve.ru/images/data2.png" alt="">
+<img src="https://ragve.ru/images/data2.png" alt="Фундаментальный анализ">
 
 
 
