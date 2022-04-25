@@ -58,7 +58,7 @@ marketdepth - изменение стакана
 <script
   async
   src="https://utteranc.es/client.js"
-  repo="<OWNER>/<NAME>"
+  repo="Ragve-hub/tale"
   issue-term="title"
   theme="github-light"
   crossorigin="anonymous"
