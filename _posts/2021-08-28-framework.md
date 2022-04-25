@@ -3,8 +3,10 @@ layout: post
 title: Алгоритмический Фреймворк
 date: 2021-08-28 21:06:52
 tags: Фреймфорк
+excerpt_separator: <!--more-->
 hidden: true
 ---
+
 
 <img src="https://raw.githubusercontent.com/Ragve-hub/scribble/gh-pages/images/oq1.png" alt="">
 
