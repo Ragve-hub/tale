@@ -4,6 +4,7 @@
     <a href="{{ site.baseurl }}/">
      
       <h2 class="nav-title">{{ site.title }}</h2>
+      {% include search-lunr.html %}
     </a>
     <ul>
       <li><a href="{{ '/tags' | prepend: site.baseurl }}">Теги</a></li>
