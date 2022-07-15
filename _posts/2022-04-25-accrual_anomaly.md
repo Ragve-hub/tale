@@ -35,24 +35,14 @@ excerpt_separator: <!--more-->
 Еще можно почитать:
 
 * <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=782726">LaFond: Is the Accrual Anomaly a Global Anomaly?</a>
-
-
 * <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1793364">Dechow, Khimich, Sloan: The Accrual Anomaly</a>
-
 * <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2362971">Beneish, Lee, Nichols: In Short Supply: Equity Overvaluation and Short Selling</a>
-
 * <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2386210">Mohanram: Analysts’ Cash Flow Forecasts and the Decline of the Accruals Anomaly</a>
-
 * <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2543996">Bender, Nielsen: Earnings Quality Revisited</a>
-
 * <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2559458">Guo, Maio: A Simple Model that Helps Explaining the Accruals Anomaly</a>
-
 * <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2611047">Fan, Opsal, Yu: Equity Anomalies and Idiosyncratic Risk Around the World</a>
-
 * <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2653979">Patatoukas: Asymmetrically Timely Loss Recognition and the Accrual Anomaly</a>
-
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3012923">Lu, Stambaugh, Yuan: Anomalies Abroad: Beyond Data Mining</a>
-
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3069688">Detzel, Schaberl, Strauss: There are Two Very Different Accruals Anomalies</a>
 
 
