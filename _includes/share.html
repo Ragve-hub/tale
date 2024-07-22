@@ -24,5 +24,13 @@
         {% include social/share-icon-linkedin.svg %}
       </a>
     </li>
+
+    <li class="github">
+      <a href="https://www.github.com/shareArticle?mini=true&url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&title={{ page.title | default:"" | uri_escape}}" target="_blank">
+        {% include social/github.svg %}
+      </a>
+    </li>
+
+    
   </ul>
 </div>
