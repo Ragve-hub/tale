@@ -1,8 +1,8 @@
 # Site settings
-title:          Управление активами
+title:          Вектор. Управление активами
 description:    "С 2003 года управляем активами на Московской бирже. Договорные отношения. Блог. Совместная работа."
 baseurl:        "/"
-url:            "https://ragve.ru"
+url:            "https://vector-am.ru"
 
 # Google Analytics
 google_analytics: G-W9VH0D4BP1
@@ -10,7 +10,7 @@ google_analytics: G-W9VH0D4BP1
 # Author
 author:
   name:         Qt
-  url:          https://ragve.ru
+  url:          https://vector-am.ru
   email:        post@ragve.ru
 
 # Build settings
