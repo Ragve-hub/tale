@@ -6,16 +6,18 @@
       
       <h2 class="nav-title">{{ site.title }}</h2>
         </a>
-    
-    <ul>
 
-         <li><a href='trans.php'><img src='images/github.png' width="15" height="15"/></li>
-         <li><a href='trans.php'><img src='images/github.png' width="15" height="15"/></li>
-         <li><a href='trans.php'><img src='images/github.png' width="15" height="15"/></li>
-     
-    
 
+<ul>
+<li><a href='trans.php'><img src='images/github.png' width="15" height="15"/></li>
+   </ul>   
+    
    
+    <ul>
+         <li><a href="{{ '/tags' | prepend: site.baseurl }}">Теги</a></li>
+      <li><a href="{{ '_pages/Presentation.pdf' | prepend: site.baseurl }}">Презентация</a></li>
+    
+  
     </ul>
   
   </div>
