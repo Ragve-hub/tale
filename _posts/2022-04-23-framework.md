@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Алгоритмическая структура
-date: 2022-04-23 21:06:52
+date: 2022-08-23 21:06:52
 tags: Фреймфорк
 excerpt_separator: <!--more-->
 
