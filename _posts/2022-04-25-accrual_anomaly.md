@@ -4,6 +4,7 @@ title: Аномалии начисления
 date: 2022-04-25 18:06:52
 tags: Рекомендации
 excerpt_separator: <!--more-->
+hidden: true
 ---
 
 Согласно исследованию <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=546108)">The Persistence of the Accruals Anomaly</a>, фирмы с низким уровнем начислений связаны с реальной прибылью, и с другой стороны,
