@@ -21,7 +21,7 @@ excerpt_separator: <!--more-->
 
 ----------
 
-The quant fund setup is a full institutional infrastructure for a quant fund of any size. It includes integrated development environment (OpenQuant), a production trading environment (QuantTrader), and centralized data management (QuantBase) and data and order routing (QuantRouter). 
+Этот сетап могут использовать фонды любых размеров. Он включает в сетя средства разработки (Openquant), среду для исполнения стратегий (QuantTrader), централизованное хранилище данных (QuantBase), и также роутинг ордеров и данных (QuantRouter).
 
 <img src="https://vector-am.ru/images/oq2.png" alt="">
 ----------
