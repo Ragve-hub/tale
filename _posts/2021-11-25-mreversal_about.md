@@ -4,6 +4,8 @@ title: О возврате к среднему
 date: 2021-11-25 9:06:52
 tags: Рекомендации
 excerpt_separator: <!--more-->
+hidden: true
+
 ---
 
 
