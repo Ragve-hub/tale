@@ -4,6 +4,8 @@ title: Премия за ребалансировку
 date: 2022-03-03 16:06:52
 tags: Рекомендации
 excerpt_separator: <!--more-->
+hidden: true
+
 ---
 
 
