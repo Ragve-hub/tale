@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Примеры торговых стратегий
-date: 2022-04-22 21:06:52
+date: 2022-09-15 21:06:52
 tags: Стратегии
 excerpt_separator: <!--more-->
 
