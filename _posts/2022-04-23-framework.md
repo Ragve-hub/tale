@@ -4,10 +4,10 @@ title: Алгоритмическая структура
 date: 2022-04-23 21:06:52
 tags: Фреймфорк
 excerpt_separator: <!--more-->
-hidden: true
+
 ---
  
-<img src="https://ragve.ru/images/oq1.png" alt="">
+<img src="https://vector-am.ru/images/oq1.png" alt="">
 
 
 Фреймворк предоставляет базовые функции рисования и визуализации графиков,
@@ -25,8 +25,9 @@ hidden: true
 
 The quant fund setup is a full institutional infrastructure for a quant fund of any size. It includes integrated development environment (OpenQuant), a production trading environment (QuantTrader), and centralized data management (QuantBase) and data and order routing (QuantRouter). 
 
-<img src="https://ragve.ru/images/oq2.png" alt="">
+<img src="https://vector-am.ru/images/oq2.png" alt="">
 ----------
+
 Получение данных и исполнение сделок 
 осуществляется через следующих провайдеров:
 
@@ -52,9 +53,27 @@ range - (high - low) multiplied by 10000
 
 quotes - bid,ask
 
-
 marketdepth - изменение стакана
 
 <img src="https://ragve.ru/images/data2.png" alt="">
+
+----------
+
+Наши сервера размещаются поближе к бирже в г. Москва. 
+
+
+[DataSpace- ЦОД уровня Tier 3](https://www.dataspace.ru)
+
+
+Пинги:
+
+tr1.finam.ru <1 мс
+
+hft.finam.ru <1 мс
+
+q1.finam.ru <1 мс
+
+spectra-t1.moex.com <3 мс
+
 
 
