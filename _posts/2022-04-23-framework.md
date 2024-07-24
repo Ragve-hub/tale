@@ -7,6 +7,9 @@ excerpt_separator: <!--more-->
 
 ---
  
+
+<!--more-->
+
 <img src="https://vector-am.ru/images/oq1.png" alt="">
 
 
@@ -14,7 +17,6 @@ excerpt_separator: <!--more-->
 которые полезны для того, чтобы понять, что поступили правильные данные
 для тестирования стратегий, что корректно соединились с провайдером данных,
 что можно послать заявку и получить репорты и т.д. 
-<!--more-->
 
 
 [Smartquant Framework](http://www.smartquant.com/)
