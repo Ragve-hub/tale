@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Доверительное управление
-date: 2022-09-01 22:06:52
+date: 2022-09-27 22:06:52
 
 
 excerpt_separator: <!--more-->
