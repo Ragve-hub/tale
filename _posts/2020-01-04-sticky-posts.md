@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Доверительное управление"
-sticky: true
+
 hidden: true
 
 excerpt_separator: <!--more-->
