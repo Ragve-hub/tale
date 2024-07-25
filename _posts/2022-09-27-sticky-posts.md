@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 
 
 
-----------
+
 
 <!--more-->
 
