@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Доверительное управление"
+date: 2022-09-01 22:06:52
 
-hidden: true
 
 excerpt_separator: <!--more-->
 ---
