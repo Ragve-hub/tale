@@ -60,21 +60,9 @@ marketdepth - изменение стакана
 
 ----------
 
-## Наши сервера размещаются поближе к бирже в г. Москва. 
+## Наши сервера размещаются поближе к бирже
+ [г.Москва. DataSpace- ЦОД уровня Tier 3](https://www.dataspace.ru)
 
-
-[DataSpace- ЦОД уровня Tier 3](https://www.dataspace.ru)
-
-
-Пинги:
-
-tr1.finam.ru <1 мс
-
-hft.finam.ru <1 мс
-
-q1.finam.ru <1 мс
-
-spectra-t1.moex.com <3 мс
 
 
 
