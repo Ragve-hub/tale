@@ -30,8 +30,7 @@ excerpt_separator: <!--more-->
 <img src="https://vector-am.ru/images/oq2.png" alt="">
 ----------
 
-Получение данных и исполнение сделок 
-осуществляется через следующих провайдеров:
+## Получение данных и исполнение сделок осуществляется через следующих провайдеров:
 
 Alfa Direct, Currenex, DB FIX, Finam Transaq, Genesis, Hotspot, IB, Integral,
 IQFeed, Ivory Scorpion, Lightspeed, MBTrading, Nordnet, Open E Cry,
@@ -61,7 +60,7 @@ marketdepth - изменение стакана
 
 ----------
 
-Наши сервера размещаются поближе к бирже в г. Москва. 
+## Наши сервера размещаются поближе к бирже в г. Москва. 
 
 
 [DataSpace- ЦОД уровня Tier 3](https://www.dataspace.ru)
